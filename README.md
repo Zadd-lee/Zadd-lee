@@ -48,7 +48,7 @@
 
 <img src="https://img.shields.io/badge/git kraken-000000?style=flat&logo=gitkraken&logoColor=ffffff">
 
-<img src="https://img.shields.io/badge/git-000000?style=flat&logo=git&logoColor=ffffff"><img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=ffffff"><img src="https://img.shields.io/badge/gitlab-000000?style=flat&logo=gitlab&logoColor=ffffff">
+<img src="https://img.shields.io/badge/git-000000?style=flat&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=ffffff"> <img src="https://img.shields.io/badge/gitlab-000000?style=flat&logo=gitlab&logoColor=ffffff">
 
 
 
